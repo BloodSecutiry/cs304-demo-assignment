@@ -1,0 +1,3 @@
+# cs304-midterm-exam
+
+THESE ARE THE BASIC CODE OF GITHUB
